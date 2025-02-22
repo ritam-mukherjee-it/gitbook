@@ -1,4 +1,20 @@
-# Machine Learning Paradimes
+# ML Paradimes
+
+## Quick Definations
+
+Here is a comparison of the three main types of learning in AI, based on the sources:
+
+* **Supervised Learning:** This involves learning with training labels, where a supervisor provides the correct answers and points out mistakes during the learning process. The AI considers some data, like an image, and classifies it with a label, like "reptile" or "mammal". After training, the AI should be able to correctly classify new, unseen images.
+* **Unsupervised Learning:** This is learning without training labels, where the AI tries to find patterns in the world. It models the world by guessing and utilizing freely available data. Unsupervised clustering involves recognizing different properties and creating categories, based on the assumption that certain objects are more similar to each other than others. For example, the K-means clustering algorithm can be used to sort data into K clusters.
+* **Reinforcement Learning:** This involves learning in an environment through feedback from an AI's behavior. The AI learns by trial-and-error to achieve complicated goals. The AI (or Agent) performs Actions based on its current inputs (the State) and interacts with its Environment until it gets a Reward. Every time the agent succeeds at its task, the AI can look back on the actions it took and slowly figure out which game states were helpful and which weren’t.
+
+
+
+
+
+## Details
+
+
 
 Here's a breakdown of supervised, unsupervised, and reinforcement learning, along with the types of problems they solve:
 
@@ -21,6 +37,8 @@ Here's a breakdown of supervised, unsupervised, and reinforcement learning, alon
       * Estimating customer churn  &#x20;
 
       &#x20;&#x20;
+* **Reference**
+  * [https://www.youtube.com/watch?v=4qVRBYAdLAo\&t=73s](https://www.youtube.com/watch?v=4qVRBYAdLAo\&t=73s)
 
 **2. Unsupervised Learning**
 
@@ -33,6 +51,8 @@ Here's a breakdown of supervised, unsupervised, and reinforcement learning, alon
     * Document clustering (grouping similar documents together)  &#x20;
   * **Dimensionality reduction:** Reducing the number of features in a dataset while preserving important information. This can be useful for visualization or simplifying complex data.  &#x20;
   * **Association rule mining:** Discovering relationships between variables. For example, finding items that are frequently bought together in a supermarket.
+* Reference:
+  * [https://www.youtube.com/watch?v=JnnaDNNb380\&list=PL8dPuuaLjXtO65LeD2p4\_Sb5XQ51par\_b\&index=7](https://www.youtube.com/watch?v=JnnaDNNb380\&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b\&index=7)&#x20;
 
 **3. Reinforcement Learning**
 
