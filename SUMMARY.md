@@ -1,8 +1,15 @@
 # Table of contents
 
-* [Page](README.md)
-* [ML Roadmap](ml-roadmap.md)
-* [ML Paradimes](ml-paradimes.md)
-* [ML Algorithms](ml-algorithms.md)
-* [ML Training and Evaluation](ml-training-and-evaluation.md)
-* [ML Data Processing](ml-data-processing.md)
+* [Prioritization Technique](README.md)
+* [GOAL Seting](goal-seting.md)
+* [OKR](okr.md)
+* [KPI](kpi.md)
+* [SMART Goals](smart-goals.md)
+
+## Group 1
+
+***
+
+* [Agile Methodologies](agile-methodologies.md)
+* [Project management Domain](project-management-domain.md)
+* [DoD](dod.md)
